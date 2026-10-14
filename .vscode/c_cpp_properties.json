@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:\\msys64\\mingw64\\include\\opencv5"
+      ],
+      "compilerPath": "C:\\msys64\\mingw64\\bin\\g++.exe",
+      "cStandard": "${default}",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ],
+  "version": 4
+}
